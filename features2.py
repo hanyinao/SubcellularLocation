@@ -215,16 +215,4 @@ def generate_all(df, labels, G, params):
     label_feat_columns = [f'label_feat_{i}' for i in range(n)]
     X_label_feat_df = pd.DataFrame(X_label_feat, columns=label_feat_columns)
 
-    # 5、标签拼接及标准化
-    df.columns = df.columns.str.strip()  # 关键修正步骤！清洗列名
-    columns_to_drop = ['Entry', 'Entry Name', 'Sequence',
-                       'subcellular_location', 'ec_number', 'pseaac']
-    missing_columns = [col for col in columns_to_drop if col not in df.columns]
-    if missing_columns:
-        raise ValueError(f"以下列不存在: {missing_columns}")
-    features_left = df.drop(columns=columns_to_drop)
-    features_combined = pd.concat([features_left, X_label_feat_df], axis=1)
-    scaler = StandardScaler()
-    scaled_features = scaler.fit_transform(features_combined)
-
-    return scaled_features
+    return df, X_label_feat_df
