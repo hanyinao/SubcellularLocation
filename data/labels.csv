@@ -1,0 +1,437 @@
+Entry,Entry Name,subcellular_location,isoform,protein_family,location,Is_Isoform
+A1L3X0,ELOV7_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+A1Z1Q3,MACD2_HUMAN,['Nucleus'],,,['Nucleus'],0
+O00167,EYA2_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+O00204,ST2B1_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+O00299,CLIC1_HUMAN,['Nucleus'],,,['Nucleus'],0
+O00408,PDE2A_HUMAN,['[Isoform PDE2A3]: Cell membrane'],'[Isoform PDE2A3,,Cell membrane'],1
+O00571,DDX3X_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+O00763,ACACB_HUMAN,['Mitochondrion'],,,['Mitochondrion'],0
+O00764,PDXK_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+O14638,ENPP3_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+O14672,ADA10_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+O14678,ABCD4_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+O14684,PTGES_HUMAN,['Membrane'],,,['Membrane'],0
+O14732,IMPA2_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+O14832,PAHX_HUMAN,['Peroxisome'],,,['Peroxisome'],0
+O14929,HAT1_HUMAN,['[Isoform A]: Nucleus matrix'],'[Isoform A,,Nucleus matrix'],1
+O15229,KMO_HUMAN,['Mitochondrion outer membrane'],,,['Mitochondrion outer membrane'],0
+O15294,OGT1_HUMAN,['Nucleus'],,,['Nucleus'],0
+O15296,LX15B_HUMAN,['[Isoform A]: Nucleus'],'[Isoform A,,Nucleus'],1
+O15438,MRP3_HUMAN,['Basolateral cell membrane'],,,['Basolateral cell membrane'],0
+O15439,MRP4_HUMAN,['Basolateral cell membrane'],,,['Basolateral cell membrane'],0
+O15440,MRP5_HUMAN,['Basolateral cell membrane'],,,['Basolateral cell membrane'],0
+O15496,PA2GX_HUMAN,['Secreted'],,,['Secreted'],0
+O43293,DAPK3_HUMAN,['Nucleus'],,,['Nucleus'],0
+O43314,VIP2_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+O43451,MGA_HUMAN,"['Apical cell membrane; Single-pass type II membrane protein', 'Note=Brush border']",,,"['Apical cell membrane; Single-pass type II membrane protein', 'Note=Brush border']",0
+O43488,ARK72_HUMAN,['Mitochondrion'],,,['Mitochondrion'],0
+O43570,CAH12_HUMAN,"['Membrane; Single-pass type I membrane protein', 'Cell membrane']",,,"['Membrane; Single-pass type I membrane protein', 'Cell membrane']",0
+O43598,DNPH1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+O43681,GET3_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+O43704,ST1B1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+O60218,AK1BA_HUMAN,['Lysosome'],,,['Lysosome'],0
+O60341,KDM1A_HUMAN,['Nucleus'],,,['Nucleus'],0
+O60502,OGA_HUMAN,['[Isoform 3]: Nucleus'],'[Isoform 3,,Nucleus'],1
+O60568,PLOD3_HUMAN,['Rough endoplasmic reticulum'],,,['Rough endoplasmic reticulum'],0
+O60760,HPGDS_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+O60931,CTNS_HUMAN,['[Isoform 1]: Lysosome membrane'],'[Isoform 1,,Lysosome membrane'],1
+O75417,DPOLQ_HUMAN,['Nucleus'],,,['Nucleus'],0
+O75746,S2512_HUMAN,['Mitochondrion inner membrane'],,,['Mitochondrion inner membrane'],0
+O75828,CBR3_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+O75874,IDHC_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+O75897,ST1C4_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+O75907,DGAT1_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+O76083,PDE9A_HUMAN,"['[Isoform PDE9A1]: Cell projection, ruffle membrane']",'[Isoform PDE9A1,,"Cell projection, ruffle membrane']",1
+O94925,GLSK_HUMAN,['[Isoform 1]: Mitochondrion'],'[Isoform 1,,Mitochondrion'],1
+O95202,LETM1_HUMAN,['Mitochondrion inner membrane'],,,['Mitochondrion inner membrane'],0
+O95255,MRP6_HUMAN,['Basal cell membrane'],,,['Basal cell membrane'],0
+O95342,ABCBB_HUMAN,['Apical cell membrane'],,,['Apical cell membrane'],0
+O95396,MOCS3_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+O95461,LARG1_HUMAN,['Golgi apparatus membrane'],,,['Golgi apparatus membrane'],0
+O95571,ETHE1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+O95749,GGPPS_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+O95822,DCMC_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+O95831,AIFM1_HUMAN,['Mitochondrion intermembrane space'],,,['Mitochondrion intermembrane space'],0
+O95989,NUDT3_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P00352,AL1A1_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+P00387,NB5R3_HUMAN,['[Isoform 1]: Endoplasmic reticulum membrane'],'[Isoform 1,,Endoplasmic reticulum membrane'],1
+P00450,CERU_HUMAN,['Secreted'],,,['Secreted'],0
+P00491,PNPH_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P00505,AATM_HUMAN,['Mitochondrion matrix'],,,['Mitochondrion matrix'],0
+P00558,PGK1_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+P00813,ADA_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+P00918,CAH2_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P00966,ASSY_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+P00973,OAS1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P02144,MYG_HUMAN,"['Cytoplasm, sarcoplasm']",,,"['Cytoplasm, sarcoplasm']",0
+P04035,HMDH_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+P04839,CY24B_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+P05062,ALDOB_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+P05165,PCCA_HUMAN,['Mitochondrion matrix'],,,['Mitochondrion matrix'],0
+P05177,CP1A2_HUMAN,"['Endoplasmic reticulum membrane; Peripheral membrane protein', 'Microsome membrane']",,,"['Endoplasmic reticulum membrane; Peripheral membrane protein', 'Microsome membrane']",0
+P06276,CHLE_HUMAN,['Secreted'],,,['Secreted'],0
+P06733,ENOA_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P07451,CAH3_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P07711,CATL1_HUMAN,['Lysosome'],,,['Lysosome'],0
+P07900,HS90A_HUMAN,['Nucleus'],,,['Nucleus'],0
+P07954,FUMH_HUMAN,['[Isoform Mitochondrial]: Mitochondrion'],'[Isoform Mitochondrial,,Mitochondrion'],1
+P08473,NEP_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+P08684,CP3A4_HUMAN,"['Endoplasmic reticulum membrane; Single-pass membrane protein', 'Microsome membrane']",,,"['Endoplasmic reticulum membrane; Single-pass membrane protein', 'Microsome membrane']",0
+P08686,CP21A_HUMAN,['Endoplasmic reticulum membrane; Peripheral membrane protein'],,,['Endoplasmic reticulum membrane; Peripheral membrane protein'],0
+P08842,STS_HUMAN,"['Cytoplasmic vesicle, secretory vesicle, microneme membrane']",,,"['Cytoplasmic vesicle, secretory vesicle, microneme membrane']",0
+P09172,DOPO_HUMAN,"['[Soluble dopamine beta-hydroxylase]: Cytoplasmic vesicle, secretory vesicle lumen']",,'[Soluble dopamine beta-hydroxylase,"Cytoplasmic vesicle, secretory vesicle lumen']",0
+P09211,GSTP1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P09601,HMOX1_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+P09874,PARP1_HUMAN,['Chromosome'],,,['Chromosome'],0
+P09917,LOX5_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P09958,FURIN_HUMAN,"['Golgi apparatus, trans-Golgi network membrane']",,,"['Golgi apparatus, trans-Golgi network membrane']",0
+P09960,LKHA4_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P10635,CP2D6_HUMAN,"['Endoplasmic reticulum membrane; Peripheral membrane protein', 'Microsome membrane']",,,"['Endoplasmic reticulum membrane; Peripheral membrane protein', 'Microsome membrane']",0
+P11166,GTR1_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+P11169,GTR3_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+P11310,ACADM_HUMAN,['Mitochondrion matrix'],,,['Mitochondrion matrix'],0
+P11413,G6PD_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+P11511,CP19A_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+P11712,CP2C9_HUMAN,"['Endoplasmic reticulum membrane; Peripheral membrane protein', 'Microsome membrane']",,,"['Endoplasmic reticulum membrane; Peripheral membrane protein', 'Microsome membrane']",0
+P12268,IMDH2_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P12821,ACE_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+P13569,CFTR_HUMAN,['Apical cell membrane'],,,['Apical cell membrane'],0
+P13866,SC5A1_HUMAN,['Apical cell membrane'],,,['Apical cell membrane'],0
+P14174,MIF_HUMAN,['Secreted'],,,['Secreted'],0
+P14384,CBPM_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+P14618,KPYM_HUMAN,['[Isoform M2]: Cytoplasm'],'[Isoform M2,,Cytoplasm'],1
+P14920,OXDA_HUMAN,['Peroxisome matrix'],,,['Peroxisome matrix'],0
+P15289,ARSA_HUMAN,['Endoplasmic reticulum'],,,['Endoplasmic reticulum'],0
+P15907,SIAT1_HUMAN,"['Golgi apparatus, Golgi stack membrane']",,,"['Golgi apparatus, Golgi stack membrane']",0
+P16233,LIPP_HUMAN,['Secreted'],,,['Secreted'],0
+P16278,BGAL_HUMAN,['[Isoform 1]: Lysosome'],'[Isoform 1,,Lysosome'],1
+P16298,PP2BB_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P16444,DPEP1_HUMAN,['Apical cell membrane'],,,['Apical cell membrane'],0
+P16662,UD2B7_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+P17706,PTN2_HUMAN,['[Isoform 1]: Endoplasmic reticulum'],'[Isoform 1,,Endoplasmic reticulum'],1
+P18074,ERCC2_HUMAN,['Nucleus'],,,['Nucleus'],0
+P19440,GGT1_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+P19801,AOC1_HUMAN,"['Secreted, extracellular space']",,,"['Secreted, extracellular space']",0
+P20020,AT2B1_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+P20839,IMDH1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P21439,MDR3_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+P21549,AGT1_HUMAN,['Peroxisome'],,,['Peroxisome'],0
+P21589,5NTD_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+P21695,GPDA_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P21964,COMT_HUMAN,['[Isoform Soluble]: Cytoplasm'],'[Isoform Soluble,,Cytoplasm'],1
+P21980,TGM2_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+P22033,MUTA_HUMAN,['Mitochondrion matrix'],,,['Mitochondrion matrix'],0
+P22304,IDS_HUMAN,['Lysosome'],,,['Lysosome'],0
+P22413,ENPP1_HUMAN,['[Ectonucleotide pyrophosphatase/phosphodiesterase family member 1]: Cell membrane'],,'[Ectonucleotide pyrophosphatase/phosphodiesterase family member 1,Cell membrane'],0
+P22557,HEM0_HUMAN,['Mitochondrion inner membrane'],,,['Mitochondrion inner membrane'],0
+P22748,CAH4_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+P23415,GLRA1_HUMAN,['Postsynaptic cell membrane'],,,['Postsynaptic cell membrane'],0
+P23416,GLRA2_HUMAN,['Postsynaptic cell membrane'],,,['Postsynaptic cell membrane'],0
+P23677,IP3KA_HUMAN,"['Cytoplasm, cytoskeleton']",,,"['Cytoplasm, cytoskeleton']",0
+P23975,SC6A2_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+P24752,THIL_HUMAN,['Mitochondrion'],,,['Mitochondrion'],0
+P27144,KAD4_HUMAN,['Mitochondrion matrix'],,,['Mitochondrion matrix'],0
+P27707,DCK_HUMAN,['Nucleus'],,,['Nucleus'],0
+P27708,PYR1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P27815,PDE4A_HUMAN,"['[Isoform 1]: Cytoplasm, perinuclear region']",'[Isoform 1,,"Cytoplasm, perinuclear region']",1
+P28288,ABCD3_HUMAN,['Peroxisome membrane'],,,['Peroxisome membrane'],0
+P28340,DPOD1_HUMAN,['Nucleus'],,,['Nucleus'],0
+P28845,DHI1_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+P29218,IMPA1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P29375,KDM5A_HUMAN,"['Nucleus, nucleolus']",,,"['Nucleus, nucleolus']",0
+P30043,BLVRB_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P30419,NMT1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P30793,GCH1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P31327,CPSM_HUMAN,['Mitochondrion'],,,['Mitochondrion'],0
+P31645,SC6A4_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+P31749,AKT1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P31751,AKT2_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P32322,P5CR1_HUMAN,['Mitochondrion'],,,['Mitochondrion'],0
+P32456,GBP2_HUMAN,['Cytoplasmic vesicle membrane'],,,['Cytoplasmic vesicle membrane'],0
+P33260,CP2CI_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+P33316,DUT_HUMAN,['[Isoform 2]: Nucleus'],'[Isoform 2,,Nucleus'],1
+P33527,MRP1_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+P35030,TRY3_HUMAN,['Secreted'],,,['Secreted'],0
+P35354,PGH2_HUMAN,['Microsome membrane'],,,['Microsome membrane'],0
+P35557,HXK4_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P35558,PCKGC_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+P35610,SOAT1_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+P35790,CHKA_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+P36639,8ODP_HUMAN,"['[Isoform p18]: Cytoplasm, cytosol']",'[Isoform p18,,"Cytoplasm, cytosol']",1
+P41229,KDM5C_HUMAN,['Nucleus'],,,['Nucleus'],0
+P41250,GARS_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P41743,KPCI_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P42330,AK1C3_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P42765,THIM_HUMAN,['Mitochondrion'],,,['Mitochondrion'],0
+P43003,EAA1_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+P43004,EAA2_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+P43005,EAA3_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+P46063,RECQ1_HUMAN,['Nucleus'],,,['Nucleus'],0
+P47712,PA24A_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P48163,MAOX_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P48730,KC1D_HUMAN,"['Cytoplasm', 'Nucleus', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome']",,,"['Cytoplasm', 'Nucleus', 'Cytoplasm, cytoskeleton, microtubule organizing center, centrosome']",0
+P49189,AL9A1_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+P49327,FAS_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P49419,AL7A1_HUMAN,"['[Isoform 2]: Cytoplasm, cytosol']",'[Isoform 2,,"Cytoplasm, cytosol']",1
+P49588,SYAC_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P49748,ACADV_HUMAN,['Mitochondrion inner membrane'],,,['Mitochondrion inner membrane'],0
+P49773,HINT1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P49789,FHIT_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P49888,ST1E1_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+P49902,5NTC_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+P50135,HNMT_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P50416,CPT1A_HUMAN,['Mitochondrion outer membrane'],,,['Mitochondrion outer membrane'],0
+P51648,AL3A2_HUMAN,['Microsome membrane'],,,['Microsome membrane'],0
+P51812,KS6A3_HUMAN,['Nucleus'],,,['Nucleus'],0
+P51857,AK1D1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P52789,HXK2_HUMAN,['Mitochondrion outer membrane'],,,['Mitochondrion outer membrane'],0
+P53004,BIEA_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+P53041,PPP5_HUMAN,['Nucleus'],,,['Nucleus'],0
+P53396,ACLY_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+P53602,MVD1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P53985,MOT1_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+P54098,DPOG1_HUMAN,['Mitochondrion'],,,['Mitochondrion'],0
+P54136,SYRC_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+P54278,PMS2_HUMAN,['Nucleus'],,,['Nucleus'],0
+P54317,LIPR2_HUMAN,['Secreted'],,,['Secreted'],0
+P55263,ADK_HUMAN,['[Isoform 1]: Nucleus'],'[Isoform 1,,Nucleus'],1
+P55345,ANM2_HUMAN,"['[Isoform 1]: Cytoplasm', 'Nucleus', 'Note=Translocates from the cytoplasm to the nucleus, after hormone exposure', 'Excluded from nucleolus.; SUBCELLULAR LOCATION: [Isoform PRMT2Alpha]: Nucleus', 'Note=Excluded from nucleolus.; SUBCELLULAR LOCATION: [Isoform PRMT2Beta]: Cytoplasm', 'Nucleus', 'Nucleus, nucleolus.; SUBCELLULAR LOCATION: [Isoform PRMT2Gamma]: Nucleus', 'Note=Excluded from nucleolus.; SUBCELLULAR LOCATION: [Isoform PRMT2L2]: Cytoplasm']",'[Isoform 1,,"Cytoplasm', 'Nucleus', 'Note=Translocates from the cytoplasm to the nucleus, after hormone exposure', 'Excluded from nucleolus.; SUBCELLULAR LOCATION: [Isoform PRMT2Alpha]: Nucleus', 'Note=Excluded from nucleolus.; SUBCELLULAR LOCATION: [Isoform PRMT2Beta]: Cytoplasm', 'Nucleus', 'Nucleus, nucleolus.; SUBCELLULAR LOCATION: [Isoform PRMT2Gamma]: Nucleus', 'Note=Excluded from nucleolus.; SUBCELLULAR LOCATION: [Isoform PRMT2L2]: Cytoplasm']",1
+P55786,PSA_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+P78356,PI42B_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+P78363,ABCA4_HUMAN,['Membrane'],,,['Membrane'],0
+P78417,GSTO1_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+P78549,NTH_HUMAN,['Nucleus'],,,['Nucleus'],0
+P82251,BAT1_HUMAN,['Apical cell membrane'],,,['Apical cell membrane'],0
+P98194,AT2C1_HUMAN,"['Golgi apparatus, trans-Golgi network membrane']",,,"['Golgi apparatus, trans-Golgi network membrane']",0
+Q00403,TF2B_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q01959,SC6A3_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q02218,ODO1_HUMAN,['Mitochondrion'],,,['Mitochondrion'],0
+Q03164,KMT2A_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q03426,KIME_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q03518,TAP1_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+Q03519,TAP2_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+Q04609,FOLH1_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q04656,ATP7A_HUMAN,"['Golgi apparatus, trans-Golgi network membrane']",,,"['Golgi apparatus, trans-Golgi network membrane']",0
+Q04828,AK1C1_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+Q05329,DCE2_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+Q05655,KPCD_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q06278,AOXA_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q06520,ST2A1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q07343,PDE4B_HUMAN,['[Isoform PDE4B5]: Cytoplasm'],'[Isoform PDE4B5,,Cytoplasm'],1
+Q08209,PP2BA_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q09328,MGT5A_HUMAN,['Golgi apparatus membrane'],,,['Golgi apparatus membrane'],0
+Q10588,BST1_HUMAN,"['Cell membrane; Lipid-anchor, GPI-anchor']",,,"['Cell membrane; Lipid-anchor, GPI-anchor']",0
+Q12884,SEPR_HUMAN,['[Prolyl endopeptidase FAP]: Cell surface'],,'[Prolyl endopeptidase FAP,Cell surface'],0
+Q13107,UBP4_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q13232,NDK3_HUMAN,['Mitochondrion outer membrane'],,,['Mitochondrion outer membrane'],0
+Q13822,ENPP2_HUMAN,['Secreted'],,,['Secreted'],0
+Q13946,PDE7A_HUMAN,"['[Isoform PDE7A1]: Cytoplasm, cytosol']",'[Isoform PDE7A1,,"Cytoplasm, cytosol']",1
+Q14191,WRN_HUMAN,"['Nucleus, nucleolus']",,,"['Nucleus, nucleolus']",0
+Q14432,PDE3A_HUMAN,['Membrane'],,,['Membrane'],0
+Q14534,ERG1_HUMAN,['Microsome membrane'],,,['Microsome membrane'],0
+Q15046,SYK_HUMAN,"['[Isoform Cytoplasmic]: Cytoplasm, cytosol']",'[Isoform Cytoplasmic,,"Cytoplasm, cytosol']",1
+Q15047,SETB1_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q15126,PMVK_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+Q15738,NSDHL_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+Q15746,MYLK_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q15758,AAAT_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q16512,PKN1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q16513,PKN2_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q16613,SNAT_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q16698,DECR_HUMAN,['Mitochondrion'],,,['Mitochondrion'],0
+Q16719,KYNU_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+Q16775,GLO2_HUMAN,['[Isoform 1]: Mitochondrion matrix'],'[Isoform 1,,Mitochondrion matrix'],1
+Q16790,CAH9_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q16829,DUS7_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q16851,UGPA_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q16853,AOC3_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q16873,LTC4S_HUMAN,['Nucleus outer membrane'],,,['Nucleus outer membrane'],0
+Q16881,TRXR1_HUMAN,['[Isoform 1]: Cytoplasm'],'[Isoform 1,,Cytoplasm'],1
+Q4FZB7,KMT5B_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q5FWF5,ESCO1_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q5SQI0,ATAT_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q5T1C6,THEM4_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q5VT66,MARC1_HUMAN,['Mitochondrion outer membrane'],,,['Mitochondrion outer membrane'],0
+Q5VTY9,HHAT_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+Q658P3,STEA3_HUMAN,['Endosome membrane'],,,['Endosome membrane'],0
+Q687X5,STEA4_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q68J44,DUS29_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q6IQ20,NAPEP_HUMAN,['Golgi apparatus membrane'],,,['Golgi apparatus membrane'],0
+Q6IQ55,TTBK2_HUMAN,"['Cell projection, cilium']",,,"['Cell projection, cilium']",0
+Q6L8Q7,PDE12_HUMAN,['Mitochondrion matrix'],,,['Mitochondrion matrix'],0
+Q6NS38,ALKB2_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q6NYC1,JMJD6_HUMAN,"['Nucleus, nucleoplasm']",,,"['Nucleus, nucleoplasm']",0
+Q6P587,FAHD1_HUMAN,['Mitochondrion'],,,['Mitochondrion'],0
+Q6PHW0,IYD1_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q6PXP3,GTR7_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q6SZW1,SARM1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q6UB28,MAP12_HUMAN,['Mitochondrion'],,,['Mitochondrion'],0
+Q6XQN6,PNCB_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+Q7L1T6,NB5R4_HUMAN,['Endoplasmic reticulum'],,,['Endoplasmic reticulum'],0
+Q7L266,ASGL1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q7L5Y1,ENOF1_HUMAN,['Mitochondrion'],,,['Mitochondrion'],0
+Q7Z5P4,DHB13_HUMAN,['[Isoform 2]: Lipid droplet'],'[Isoform 2,,Lipid droplet'],1
+Q7Z5W3,BN3D2_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q86SQ9,DHDDS_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+Q86TI2,DPP9_HUMAN,"['[Isoform 1]: Cytoplasm, cytosol']",'[Isoform 1,,"Cytoplasm, cytosol']",1
+Q86TU7,SETD3_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q86UD5,SL9B2_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q86Y38,XYLT1_HUMAN,['Golgi apparatus membrane'],,,['Golgi apparatus membrane'],0
+Q8IV08,PLD3_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+Q8IVH4,MMAA_HUMAN,['Mitochondrion'],,,['Mitochondrion'],0
+Q8IWU4,ZNT8_HUMAN,"['Cytoplasmic vesicle, secretory vesicle membrane']",,,"['Cytoplasmic vesicle, secretory vesicle membrane']",0
+Q8IXJ6,SIR2_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q8IXL6,FA20C_HUMAN,['Golgi apparatus membrane'],,,['Golgi apparatus membrane'],0
+Q8IYB8,SUV3_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q8N371,KDM8_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q8N3J5,PPM1K_HUMAN,['Mitochondrion matrix'],,,['Mitochondrion matrix'],0
+Q8N4J0,CARME_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+Q8N4T8,CBR4_HUMAN,['Mitochondrion matrix'],,,['Mitochondrion matrix'],0
+Q8N5Y8,PAR16_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+Q8N6T7,SIR6_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q8N884,CGAS_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q8NB49,AT11C_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q8NB78,KDM1B_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q8NBK3,SUMF1_HUMAN,['Endoplasmic reticulum lumen'],,,['Endoplasmic reticulum lumen'],0
+Q8NBL1,PGLT1_HUMAN,['Endoplasmic reticulum lumen'],,,['Endoplasmic reticulum lumen'],0
+Q8NBW4,S38A9_HUMAN,['Lysosome membrane'],,,['Lysosome membrane'],0
+Q8NCC3,PAG15_HUMAN,['Lysosome'],,,['Lysosome'],0
+Q8NFU5,IPMK_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q8TBK2,SETD6_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q8TCB7,METL6_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q8TD43,TRPM4_HUMAN,['[Isoform 1]: Cell membrane'],'[Isoform 1,,Cell membrane'],1
+Q8TDZ2,MICA1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q8TEA1,NSUN6_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q8WVQ1,CANT1_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+Q8WVY7,UBCP1_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q8WXI4,ACO11_HUMAN,['Mitochondrion matrix'],,,['Mitochondrion matrix'],0
+Q8WYK0,ACO12_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+Q8WZA1,PMGT1_HUMAN,['Golgi apparatus membrane'],,,['Golgi apparatus membrane'],0
+Q92484,ASM3A_HUMAN,['Secreted'],,,['Secreted'],0
+Q92499,DDX1_HUMAN,"['Nucleus', 'Cytoplasm', 'Cytoplasmic granule', 'Cytoplasm, cytosol']",,,"['Nucleus', 'Cytoplasm', 'Cytoplasmic granule', 'Cytoplasm, cytosol']",0
+Q92830,KAT2A_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q92831,KAT2B_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q92841,DDX17_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q92887,MRP2_HUMAN,['Apical cell membrane'],,,['Apical cell membrane'],0
+Q96AZ6,ISG20_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q96C36,P5CR2_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q96DE0,NUD16_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q96E22,NGBR_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+Q96EF0,MTMR8_HUMAN,['Nucleus envelope'],,,['Nucleus envelope'],0
+Q96GD0,PLPP_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+Q96GX9,MTNB_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q96KN2,CNDP1_HUMAN,['Secreted'],,,['Secreted'],0
+Q96KP4,CNDP2_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q96KS0,EGLN2_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q96LA8,ANM6_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q96LW4,PRIPO_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q96PH1,NOX5_HUMAN,['[Isoform v2]: Endoplasmic reticulum'],'[Isoform v2,,Endoplasmic reticulum'],1
+Q96PN6,ADCYA_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q96Q11,TRNT1_HUMAN,['Mitochondrion'],,,['Mitochondrion'],0
+Q96Q83,ALKB3_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q96RR1,PEO1_HUMAN,"['Mitochondrion matrix, mitochondrion nucleoid']",,,"['Mitochondrion matrix, mitochondrion nucleoid']",0
+Q96RS0,TGS1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q96T66,NMNA3_HUMAN,['Mitochondrion'],,,['Mitochondrion'],0
+Q99489,OXDD_HUMAN,['Peroxisome matrix'],,,['Peroxisome matrix'],0
+Q99714,HCD2_HUMAN,['Mitochondrion'],,,['Mitochondrion'],0
+Q99873,ANM1_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q9BPX1,DHB14_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9BQ65,USB1_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q9BQ69,MACD1_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q9BQG2,NUD12_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9BTZ2,DHRS4_HUMAN,['[Isoform 1]: Peroxisome'],'[Isoform 1,,Peroxisome'],1
+Q9BU02,THTPA_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9BUT1,DHRS6_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9BV79,MECR_HUMAN,['[Isoform 1]: Mitochondrion'],'[Isoform 1,,Mitochondrion'],1
+Q9BWT3,PAPOG_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q9BX68,HINT2_HUMAN,['Mitochondrion'],,,['Mitochondrion'],0
+Q9BXS1,IDI2_HUMAN,['Peroxisome'],,,['Peroxisome'],0
+Q9BY32,ITPA_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9BY66,KDM5D_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q9BYF1,ACE2_HUMAN,['[Processed angiotensin-converting enzyme 2]: Secreted'],,'[Processed angiotensin-converting enzyme 2,Secreted'],0
+Q9BZ23,PANK2_HUMAN,['[Isoform 1]: Mitochondrion'],'[Isoform 1,,Mitochondrion'],1
+Q9C0B1,FTO_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q9GZT9,EGLN1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9GZU7,CTDS1_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q9GZZ1,NAA50_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9H008,LHPP_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9H078,CLPB_HUMAN,['Mitochondrion intermembrane space'],,,['Mitochondrion intermembrane space'],0
+Q9H1A3,METL9_HUMAN,['Endoplasmic reticulum'],,,['Endoplasmic reticulum'],0
+Q9H227,GBA3_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+Q9H3H5,GPT_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+Q9H4A3,WNK1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9H4Z3,CAPAM_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q9H611,PIF1_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q9H6E5,STPAP_HUMAN,"['Nucleus, nucleolus']",,,"['Nucleus, nucleolus']",0
+Q9H773,DCTP1_HUMAN,['Mitochondrion'],,,['Mitochondrion'],0
+Q9H7Z6,KAT8_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q9H999,PANK3_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9HAN9,NMNA1_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q9HC16,ABC3G_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9NP58,ABCB6_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q9NQ11,AT132_HUMAN,['Lysosome membrane'],,,['Lysosome membrane'],0
+Q9NQH7,XPP3_HUMAN,['[Isoform 1]: Mitochondrion'],'[Isoform 1,,Mitochondrion'],1
+Q9NQW7,XPP1_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+Q9NR22,ANM8_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q9NR31,SAR1A_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+Q9NR71,ASAH2_HUMAN,['[Neutral ceramidase]: Cell membrane'],,'[Neutral ceramidase,Cell membrane'],0
+Q9NRC8,SIR7_HUMAN,"['Nucleus, nucleolus']",,,"['Nucleus, nucleolus']",0
+Q9NRK6,ABCBA_HUMAN,['Mitochondrion inner membrane'],,,['Mitochondrion inner membrane'],0
+Q9NRN7,ADPPT_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+Q9NRN9,METL5_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q9NTG7,SIR3_HUMAN,['Mitochondrion matrix'],,,['Mitochondrion matrix'],0
+Q9NUN7,ACER3_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+Q9NVV4,PAPD1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9NWZ3,IRAK4_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9NXA8,SIR5_HUMAN,"['Mitochondrion matrix', 'Mitochondrion intermembrane space', 'Cytoplasm, cytosol', 'Nucleus', 'Note=Mainly mitochondrial', 'Also present extramitochondrially, with a fraction present in the cytosol and very small amounts also detected in the nucleus.; SUBCELLULAR LOCATION: [Isoform 1]: Cytoplasm']","'Mitochondrion matrix', 'Mitochondrion intermembrane space', 'Cytoplasm, cytosol', 'Nucleus', 'Note=Mainly mitochondrial', 'Also present extramitochondrially, with a fraction present in the cytosol and very small amounts also detected in the nucleus.; SUBCELLULAR LOCATION: [Isoform 1",,Cytoplasm'],1
+Q9NY33,DPP3_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+Q9NY59,NSMA2_HUMAN,['Golgi apparatus membrane'],,,['Golgi apparatus membrane'],0
+Q9NYA1,SPHK1_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9NYL2,M3K20_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9NZ45,CISD1_HUMAN,['Mitochondrion outer membrane'],,,['Mitochondrion outer membrane'],0
+Q9NZJ9,NUDT4_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9NZK5,ADA2_HUMAN,['Secreted'],,,['Secreted'],0
+Q9NZK7,PA2GE_HUMAN,['Secreted'],,,['Secreted'],0
+Q9NZV8,KCND2_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q9UBK8,MTRR_HUMAN,['[Isoform B]: Cytoplasm.; SUBCELLULAR LOCATION: [Isoform A]: Cytoplasm'],'[Isoform B,,Cytoplasm.; SUBCELLULAR LOCATION: [Isoform A]: Cytoplasm'],1
+Q9UBP0,SPAST_HUMAN,['Membrane'],,,['Membrane'],0
+Q9UBT6,POLK_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q9UGL1,KDM5B_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q9UGM6,SYWM_HUMAN,['Mitochondrion matrix'],,,['Mitochondrion matrix'],0
+Q9UHB4,NDOR1_HUMAN,"['Cytoplasm, perinuclear region']",,,"['Cytoplasm, perinuclear region']",0
+Q9UHI5,LAT2_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q9UHW9,S12A6_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q9UIJ7,KAD3_HUMAN,['Mitochondrion matrix'],,,['Mitochondrion matrix'],0
+Q9UJM8,HAOX1_HUMAN,['Peroxisome matrix'],,,['Peroxisome matrix'],0
+Q9UJS0,S2513_HUMAN,['Mitochondrion inner membrane'],,,['Mitochondrion inner membrane'],0
+Q9UK39,NOCT_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9UKM7,MA1B1_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+Q9UKU7,ACAD8_HUMAN,['Mitochondrion'],,,['Mitochondrion'],0
+Q9UKV8,AGO2_HUMAN,"['Cytoplasm, P-body']",,,"['Cytoplasm, P-body']",0
+Q9UL01,DSE_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+Q9ULG1,INO80_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9UM07,PADI4_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9UNQ0,ABCG2_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q9UP95,S12A4_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q9UPI3,FLVC2_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q9UPP1,PHF8_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q9UPY5,XCT_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q9Y217,MTMR6_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9Y231,FUT9_HUMAN,"['Golgi apparatus, trans-Golgi network membrane']",,,"['Golgi apparatus, trans-Golgi network membrane']",0
+Q9Y233,PDE10_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+Q9Y243,AKT3_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q9Y295,DRG1_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q9Y2G5,OFUT2_HUMAN,['Endoplasmic reticulum'],,,['Endoplasmic reticulum'],0
+Q9Y2Q0,AT8A1_HUMAN,"['Cytoplasmic vesicle, secretory vesicle, chromaffin granule membrane']",,,"['Cytoplasmic vesicle, secretory vesicle, chromaffin granule membrane']",0
+Q9Y3C6,PPIL1_HUMAN,['Nucleus'],,,['Nucleus'],0
+Q9Y3R4,NEUR2_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+Q9Y4K0,LOXL2_HUMAN,"['Secreted, extracellular space, extracellular matrix, basement membrane']",,,"['Secreted, extracellular space, extracellular matrix, basement membrane']",0
+Q9Y4U1,MMAC_HUMAN,"['Cytoplasm, cytosol']",,,"['Cytoplasm, cytosol']",0
+Q9Y530,OARD1_HUMAN,"['Nucleus, nucleoplasm']",,,"['Nucleus, nucleoplasm']",0
+Q9Y5P6,GMPPB_HUMAN,['Cytoplasm'],,,['Cytoplasm'],0
+Q9Y5Y0,FLVC1_HUMAN,['[Isoform 1]: Cell membrane'],'[Isoform 1,,Cell membrane'],1
+Q9Y666,S12A7_HUMAN,['Cell membrane'],,,['Cell membrane'],0
+Q9Y697,NFS1_HUMAN,['[Isoform Mitochondrial]: Mitochondrion'],'[Isoform Mitochondrial,,Mitochondrion'],1
+Q9Y6B6,SAR1B_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
+Q9Y6K0,CEPT1_HUMAN,['Endoplasmic reticulum membrane'],,,['Endoplasmic reticulum membrane'],0
