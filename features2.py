@@ -219,6 +219,9 @@ def generate_all(df, labels, G, params):
     df.columns = df.columns.str.strip()  # 关键修正步骤！清洗列名
     columns_to_drop = ['Entry', 'Entry Name', 'Sequence',
                        'subcellular_location', 'ec_number', 'pseaac']
+    missing_columns = [col for col in columns_to_drop if col not in df.columns]
+    if missing_columns:
+        raise ValueError(f"以下列不存在: {missing_columns}")
     features_left = df.drop(columns=columns_to_drop)
     features_combined = pd.concat([features_left, X_label_feat_df], axis=1)
     scaler = StandardScaler()
