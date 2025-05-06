@@ -163,7 +163,7 @@ def generate_all(df, labels, G, params):
     df = pd.concat([df.drop('EBGW_Features', axis=1), features_df], axis=1)
 
     # 3、计算PsePSSM特征
-    pssm_dir = r"D:\Han\software\Math\CSUpan\ShareCache\尹涵(数学与统计学院)\赛\一流专业人才计划\Codes\pssm_sequences"
+    pssm_dir = r"D:\SubcellularLocalization\Codes\pssm_sequences"
     all_features = {}
     xi_max = params['psepssm_lambda']
     w = params['psepssm_w']
