@@ -216,6 +216,7 @@ def generate_all(df, labels, G, params):
     X_label_feat_df = pd.DataFrame(X_label_feat, columns=label_feat_columns)
 
     # 5、标签拼接及标准化
+    df.columns = df.columns.str.strip()  # 关键修正步骤！清洗列名
     columns_to_drop = ['Entry', 'Entry Name', 'Sequence',
                        'subcellular_location', 'ec_number', 'pseaac']
     features_left = df.drop(columns=columns_to_drop)
