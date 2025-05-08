@@ -1,4 +1,3 @@
-from sklearn.preprocessing import StandardScaler
 import networkx as nx
 import pandas as pd
 from node2vec import Node2Vec

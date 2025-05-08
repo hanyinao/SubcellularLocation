@@ -1,0 +1,1 @@
+{"pseaac_lambda": 4, "ebgw_window_size": 5, "psepssm_lambda": 4, "psepssm_w": 0.35939201104659213, "n2v_dimensions": 37, "n2v_walk_length": 98, "n2v_num_walks": 36, "n2v_p": 7.387754886502563, "n2v_q": 4.6950976800429896, "n2v_window": 2, "xgb_n_estimators": 340, "xgb_max_depth": 3, "xgb_learning_rate": 0.014223025711842774}
